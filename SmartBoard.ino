@@ -7,8 +7,8 @@
 #include "CallbackFunction.h"
 #include "wifimanagment.h" 
 #include<FirebaseArduino.h>
-#define FIREBASE_HOST "switchboard-73b51.firebaseio.com"                     //Your Firebase Project URL goes here without "http:" , "\" and "/"
-#define FIREBASE_AUTH "5qFI1wTllYaWRnaob3ym2yPV565v7wUa1e3SCFwQ"       //Your Firebase Database Secret goes here
+#define FIREBASE_HOST "###"                     //Your Firebase Project URL goes here without "http:" , "\" and "/"
+#define FIREBASE_AUTH "###"       //Your Firebase Database Secret goes here
 UpnpBroadcastResponder upnpBroadcastResponder;
 //#######################################
 //#######################################
